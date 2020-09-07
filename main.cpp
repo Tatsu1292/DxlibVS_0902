@@ -6,7 +6,7 @@
 #define GAME_COLOR			32	//画面のカラービット
 
 #define GAME_WINDOW_BAR		0	//タイトルバーはデフォルトにする
-#define GAME_WINDOW_NAME	"GAME TITLE"	//ウィンドウのタイトル
+#define GAME_WINDOW_NAME	"Dxlib_Movie"	//ウィンドウのタイトル
 
 #define MOVIE_PATH          ".\\MOVIE\\neko.mp4"
 
